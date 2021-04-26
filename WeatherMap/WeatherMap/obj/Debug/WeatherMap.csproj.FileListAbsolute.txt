@@ -1,0 +1,11 @@
+C:\D\Projects 3\WeatherMap\WeatherMap\bin\Debug\WeatherMap.exe.config
+C:\D\Projects 3\WeatherMap\WeatherMap\bin\Debug\WeatherMap.exe
+C:\D\Projects 3\WeatherMap\WeatherMap\bin\Debug\WeatherMap.pdb
+C:\D\Projects 3\WeatherMap\WeatherMap\obj\Debug\WeatherMap.csprojResolveAssemblyReference.cache
+C:\D\Projects 3\WeatherMap\WeatherMap\obj\Debug\WeatherMap.Form1.resources
+C:\D\Projects 3\WeatherMap\WeatherMap\obj\Debug\WeatherMap.Properties.Resources.resources
+C:\D\Projects 3\WeatherMap\WeatherMap\obj\Debug\WeatherMap.csproj.GenerateResource.Cache
+C:\D\Projects 3\WeatherMap\WeatherMap\obj\Debug\WeatherMap.exe
+C:\D\Projects 3\WeatherMap\WeatherMap\obj\Debug\WeatherMap.pdb
+C:\D\Projects 3\WeatherMap\WeatherMap\bin\Debug\Newtonsoft.Json.dll
+C:\D\Projects 3\WeatherMap\WeatherMap\bin\Debug\Newtonsoft.Json.xml
